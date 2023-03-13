@@ -1,8 +1,8 @@
-let randomNumber = Math.floor(Math.random() * 8);
+let dayNumber = Math.floor(Math.random() * 8);
 
-console.log(randomNumber);
+console.log(dayNumber);
 
-let dayNumber = randomNumber ;
+// let dayNumber = randomNumber ;
 
 switch (dayNumber){
     case 0:
